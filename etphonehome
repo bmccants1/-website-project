@@ -1,0 +1,3 @@
+mkdir website-project
+cd website-project
+cat> indec.html
